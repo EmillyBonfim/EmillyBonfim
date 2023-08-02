@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oie eu sou a Emilly!✨
+
+ - 🔭Estudando HTML5
+ - 🌱Estudando Python
+
 
 <!--
 **EmillyBonfim/EmillyBonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
