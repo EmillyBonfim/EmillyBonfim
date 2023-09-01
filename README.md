@@ -1,5 +1,6 @@
 ### Oie eu sou a Emilly!✨
 
+ - 🎂15 years
  - 🔭Estudando HTML5
  - 🌱Estudando Python
 
