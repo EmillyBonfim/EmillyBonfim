@@ -2,6 +2,7 @@
 
  - 🎂16 years
  - 🔭Estudando HTML5
+ - 🚀Estudando CSS
  - 🌱Estudando JavaScript
 
 
