@@ -1,4 +1,6 @@
-## Hi there 👋
+## Oiiie, eu sou a Emilly! 🙋🏻✨
+
+![Emilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmillyBonfim&show_icons=true&theme=panda)
 
 <!--
 **EmillyBonfim/EmillyBonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
